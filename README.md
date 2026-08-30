@@ -13,7 +13,7 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |    Male             |    BTech ECE                             |  
 |    Member 2     |     S.Kanishka                    |     CB.EN.U4ECE26024                   |      Female           |      BTech ECE                           |  
-|    Member 3     |                         |                        |                 |                                 |  
+|    Member 3     |    K.Vikas.Nair                     |      B.EN.U4ECE26022                  |     Male            |        BTech ECE                         |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
 |    Member 6     |                         |                        |     Female      |                                 |   
