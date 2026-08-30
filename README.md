@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T235
 ### Team Details
-#### **Team Name** <<INNOVITA>> <br/>
+#### **Team Name** INNOVITA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
