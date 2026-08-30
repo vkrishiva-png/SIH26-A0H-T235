@@ -11,7 +11,7 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |                 |                                 |  
+|   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |    Male             |    BTech ECE                             |  
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
