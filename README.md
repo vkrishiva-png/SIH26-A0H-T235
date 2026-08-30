@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   N.Mohankumar                  |                       |                         |   n_mohankumar@cb.amrita.edu                       |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH005**
+* **Problem Statement Title: Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables in North Eastern Region (NER)**
+* **Theme / Category: Agriculture, FoodTech & Rural Development**
+* **Ministry / Organization: 	Ministry of Development of North Eastern Region (MDoNER)**, wherever applicable
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26040**
+* **Problem Statement Title: Smart Water Purification and Quality Monitoring System for Rural and Mining-Affected Areas.**
+* **Theme / Category: 	Clean & Green Technology**
+* **Ministry / Organization: Department of Higher & Technical Education**, wherever applicable
