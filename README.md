@@ -14,9 +14,9 @@
 |   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |    Male             |    BTech ECE                             |  
 |    Member 2     |     S.Kanishka                    |     CB.EN.U4ECE26024                   |      Female           |      BTech ECE                           |  
 |    Member 3     |    K.Vikas.Nair                     |      B.EN.U4ECE26022                  |     Male            |        BTech ECE                         |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|    Member 4     |    Kishorekumar L                     |    CB.SC.U4CSE26727                    |    Male             |         BTech CSE                        |   
+|    Member 5     |     Dharanikrishna                    |       CB.AI.U4AIM26010                 |       Male          |        BTech AIM                         |  
+|    Member 6     |     Raja Raja Shree.A                    |    CB.EN.U4CCE26065                    |     Female      |       BTech ECE CCE                          |   
 
 #### Mentor Details
 
