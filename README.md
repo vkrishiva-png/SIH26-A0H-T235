@@ -12,7 +12,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |    Male             |    BTech ECE                             |  
-|    Member 2     |                         |                        |                 |                                 |  
+|    Member 2     |     S.Kanishka                    |     CB.EN.U4ECE26024                   |      Female           |      BTech ECE                           |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
 |    Member 5     |                         |                        |                 |                                 |  
