@@ -7,11 +7,11 @@
 
 ## SIH26-A0H-T235
 ### Team Details
-#### **Team Name** INNOVITA <br/>
+#### **Team Name** : INNOVITA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |      Krishiva Venkatesh                   |                        |                 |                                 |  
+|   Team Leader   |      Krishiva Venkatesh                   |   CB.EN.U4ECE26027                     |                 |                                 |  
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
